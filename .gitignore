@@ -72,3 +72,38 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Global Excludes for All Projects
+**/Intermediate/
+**/Saved/
+**/Binaries/
+**/DerivedDataCache/
+**/.vs/
+**/.vscode/
+**/*.VC.db
+**/*.sdf
+**/*.opensdf
+**/*.suo
+**/*.log
+**/*.tmp
+**/*.user
+**/node_modules/
+**/build/
+**/__pycache__/
+**/*.pyc
+
+# Exclude Solution Files
+*.sln
+
+# MacOS/Linux Metadata
+.DS_Store
+Thumbs.db
+
+# Only track essential Config
+!**/Config/
+!**/Config/Default*.ini
+
+# Allow Source and Content
+!**/Source/
+!**/Content/
+clean_project.bat
