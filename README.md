@@ -2,6 +2,8 @@
 
 > On this section I will be working on mainly physics: how it interacts with the environment, how to implement those interactions as events using Blueprints, as well as building/loading a basic level to shoot projectiles !
 
+[Devlog 1](./DevlogClips/10-17-2025_Devlog.gif) [Devlog 2](./DevlogClips/10-17-2025_Devlog_3.gif) 
+
 ---
 
 ## What I Learned 
