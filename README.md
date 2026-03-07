@@ -16,7 +16,7 @@
 | Section | Scope | UE Version | Jump to Code | Build |
 |---|---|---|---|---|
 | 02 – Playing with Physics | Spawning projectiles, camera aiming, level building | UE-5.0 | [sec-02-warehouse](../../tree/UE-5.0/sec-02-warehouse) | — |
-| 03 – Unreal and C++ | Blueprints to C++, adding movement/rotation from code, events and win condition | UE-5.0 | [sec-03-obstacle](../../tree/UE-5.0/sec-03-obstacle) | — |
+| 03 – Unreal and C++ | Blueprints to C++, adding movement/rotation from code, events and win condition | UE-5.6 | [sec-03-obstacle](../../tree/UE-5.6/sec-03-obstacle) | — |
 
 ---
 
